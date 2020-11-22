@@ -2358,6 +2358,10 @@ a:hover {
 .menu_wrapper_2 .common_dropdown_wrapper {
 	position:relative;
 }
+.current_page_item a,
+.common_dropdown_wrapper a{
+  font-size: 13px;
+}
 .menu_wrapper_2 li ul{
 	position:absolute;
 	right:-25px;
